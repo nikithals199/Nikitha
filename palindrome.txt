@@ -1,0 +1,5 @@
+﻿Build started at 16:47...
+1>------ Build started: Project: Iteration, Configuration: Debug Any CPU ------
+1>  Iteration -> C:\Users\Nikitha\source\repos\Iteration\Iteration\bin\Debug\Iteration.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 16:47 and took 00.299 seconds ==========
